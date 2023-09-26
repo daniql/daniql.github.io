@@ -12,4 +12,9 @@ Activity 3:
 <img width="1512" alt="Screenshot 2023-09-25 at 5 39 43 PM" src="https://github.com/daniql/daniql.github.io/assets/43858798/d10b0bc5-94e0-4c79-a686-b5864f1fc454">
 <img width="1512" alt="Screenshot 2023-09-25 at 5 44 27 PM" src="https://github.com/daniql/daniql.github.io/assets/43858798/5372128f-b75a-4b40-a8f6-3900de13ca91">
 
+Activity 4:
+<img width="1285" alt="Screenshot 2023-09-25 at 11 29 11 PM" src="https://github.com/daniql/daniql.github.io/assets/43858798/7cec21a5-d7da-4993-a6b0-2aaf0c650a2f">
+<img width="1512" alt="Screenshot 2023-09-25 at 11 29 35 PM" src="https://github.com/daniql/daniql.github.io/assets/43858798/a21a0555-ff65-4f43-8ae1-4c1734eed86e">
+
+
 Clone of: https://github.com/varadbhogayata/varadbhogayata.github.io
